@@ -1,0 +1,30 @@
+
+.primeraSeccion{
+    background-color: blue;
+    width: 100%;
+    height: 100vh;
+}
+
+.tituloPrimeraSeccion{
+    width: 50%;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.productos{
+    display: flex;
+    justify-content:center;
+    flex-flow: wrap;
+    align-items: center;
+    width: 100%;
+    height: 80vh;
+}
+
+.producto{
+    width: 25%;
+    height: 25vh;
+    border-style: solid;
+    margin: 5px;
+    
+}

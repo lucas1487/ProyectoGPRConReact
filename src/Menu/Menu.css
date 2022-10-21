@@ -1,0 +1,25 @@
+#pagina{
+    background-color: aqua;
+    height: 100vh;
+    margin: auto;
+}
+
+.contenido{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.encabezado{
+    
+    display: flex;
+    margin: 2rem;
+}
+
+#closeMenu{
+    
+    margin-left: 150px;
+}
