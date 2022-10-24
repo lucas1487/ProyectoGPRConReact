@@ -23,3 +23,9 @@
     
     margin-left: 150px;
 }
+
+.resdesSociales{
+
+    display: flex;
+    align-items: flex-end;
+}
