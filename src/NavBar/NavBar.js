@@ -21,7 +21,7 @@ function NavBar() {
           
         </h5>
         <div class="line"></div>
-<RedesSociales/>
+        <RedesSociales/>
         <img class="iconWhatsapp" src={icon} alt="Icon Whatsapp"/>
 
       </div>

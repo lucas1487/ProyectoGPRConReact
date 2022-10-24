@@ -2,9 +2,8 @@ import React from 'react'
 import "./RedesSociales.css"
 function RedesSociales() {
   return (
-    <div>
       <div class="socialIcons">
-          <ul class="">
+          <ul class="centrar">
             <li class="">
               <a
                 class=""
@@ -104,7 +103,6 @@ function RedesSociales() {
             </li>
           </ul>
         </div>
-    </div>
   )
 }
 
